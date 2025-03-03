@@ -1,4 +1,4 @@
-![Profile Banner](https://plus.unsplash.com/premium_photo-1663100722417-6e36673fe0ed?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29kZXxlbnwwfHwwfHx8MA%3D%3D)
+![Profile Banner](https://plus.unsplash.com/premium_photo-1663100722417-6e36673fe0ed?w=1000&h=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29kZXxlbnwwfHwwfHx8MA%3D%3D)
 
 # 💫 About Me:
 Full Stack Developer At We-frame Tech (Full-Time)<br><br>Hey there, I’m Ayush Bathre. Over the past few years, I’ve been diving deep into web development and crafting seamless, user-friendly web applications. Recently, my focus has been on mastering Next.js, Nuxt.js, Tailwind CSS, TypeScript, and Directus CMS.<br><br>I specialize in creating responsive websites that look stunning and perform efficiently across all devices. My passion lies in transforming ideas into functional, modern, and scalable web solutions.
