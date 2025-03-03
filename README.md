@@ -1,3 +1,5 @@
+![Profile Banner](https://plus.unsplash.com/premium_photo-1663100722417-6e36673fe0ed?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29kZXxlbnwwfHwwfHx8MA%3D%3D)
+
 # 💫 About Me:
 Full Stack Developer At We-frame Tech (Full-Time)<br><br>Hey there, I’m Ayush Bathre. Over the past few years, I’ve been diving deep into web development and crafting seamless, user-friendly web applications. Recently, my focus has been on mastering Next.js, Nuxt.js, Tailwind CSS, TypeScript, and Directus CMS.<br><br>I specialize in creating responsive websites that look stunning and perform efficiently across all devices. My passion lies in transforming ideas into functional, modern, and scalable web solutions.
 
@@ -11,9 +13,6 @@ Full Stack Developer At We-frame Tech (Full-Time)<br><br>Hey there, I’m Ayush 
 ![](https://github-readme-stats.vercel.app/api?username=AyushBathre2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AyushBathre2001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushBathre2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AyushBathre2001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AyushBathre2001&icon=0&color=0)](https://visitcount.itsvg.in)
